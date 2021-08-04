@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.button {
+  width: 20%;
+  padding: 10px;
+  background-color: rgb(109, 95, 95);
+  text-transform: uppercase;
+  cursor: pointer;
+}
